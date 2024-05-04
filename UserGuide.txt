@@ -1,0 +1,36 @@
+                                                       User Guide for ZType Game
+
+Welcome to ZType! A typing game with a twist... your goal is to destroy words by typing them before they can reach the bottom of the screen. 
+
+Here's how to play:
+
+1. Game Objective:
+   - Your objective is to type the words displayed on the screen quickly and accurately. 
+   - Each word typed correctly typed word destroys the word (turns red) and earns you points. 
+   - If a word reaches the bottom of the screen without turning red, the game ends abruptly.
+
+2. Starting the Game:
+   - To start the game, just run the program.
+   - Once the game begins, words start at the top of the screen and descend towards the bottom.
+
+3. Typing Words:
+   - As a "word" appears on the screen, type the word using your keyboard.
+   - Ensure that you type the word correctly and press Enter to submit your input.
+   - If you type the word correctly, it will be destroyed, and you will earn points.
+
+4. Game Over:
+   - The game ends if any word reaches the bottom of the screen without being destroyed.
+   - Once the game ends, a black screen will appear telling you that you have lost the game.
+
+5. Controls:
+   - Use your keyboard to type words as they appear on the screen.
+   - Press Enter to submit your typed word.
+
+6. Randomness Feature:
+   - The words displayed in the game are randomly generated.
+   - Each game session has different words -- providing a unique gaming experience.
+
+7. Have Fun:
+   - Enjoy playing ZType and improve your typing speed and accuracy.
+
+                                                   That's it! Have fun and Good luck!
